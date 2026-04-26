@@ -73,5 +73,5 @@
 ---
 
 ## 📫 Connect
-- LinkedIn: [(add link)](https://www.linkedin.com/in/ssid1998/)
+- LinkedIn: [(LinkedIn)](https://www.linkedin.com/in/ssid1998/)
 - Email: hiressid@gmail.com
