@@ -6,9 +6,9 @@
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
-### 🤖 AI / LLM Systems
+###  AI / LLM Systems
 - 🔹 [Kompass](https://github.com/ssid1998/Kompass)  
   Local LLM chatbot for international students using RAG, Ollama, and university knowledge sources.
 
@@ -17,7 +17,7 @@
 
 ---
 
-### 📊 Data Science & Machine Learning
+###  Data Science & Machine Learning
 - 🔹 [credit-risk-time-series](https://github.com/ssid1998/credit-risk-time-series)  
   Time series modeling for financial risk prediction using statistical and ML approaches.
 
@@ -26,13 +26,13 @@
 
 ---
 
-### 🚗 Edge AI / Computer Vision
+###  Edge AI / Computer Vision
 - 🔹 [jetson-license-plate-entry-exit-system](https://github.com/ssid1998/jetson-license-plate-entry-exit-system)  
   License plate recognition system using YOLOv8, TensorRT, and Jetson Nano.
 
 ---
 
-### 🧠 Tools & Experiments
+###  Tools & Experiments
 - 🔹 [BetterPrompt](https://github.com/ssid1998/BetterPrompt)  
   Tooling to improve prompt engineering workflows.
 
@@ -44,19 +44,19 @@
 
 ---
 
-### 🎮 Fun / Side Projects
+###  Fun / Side Projects
 - 🔹 [Paddle-Panic](https://github.com/ssid1998/Paddle-Panic)  
   2D Pong-style game built in JavaScript.
 
 ---
 
-### 📚 Learning & Coursework
+###  Learning & Coursework
 - 🔹 [cs50p](https://github.com/ssid1998/cs50p)  
   Python coursework and problem sets from Harvard CS50P.
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 - Python, SQL, JavaScript  
 - Machine Learning, Time Series Analysis  
 - YOLOv8, TensorRT, Edge AI  
@@ -65,7 +65,7 @@
 
 ---
 
-## 📌 Currently Working On
+##  Currently Working On
 - 📊 Time Series Forecasting (CPI Germany)
 - 🤖 Local LLM Agents (OpenClaw + Ollama)
 - 🧠 CNN for Time Series
@@ -73,5 +73,5 @@
 ---
 
 ## 📫 Connect
-- LinkedIn: (add link)
-- Email: (optional)
+- LinkedIn: [(add link)](https://www.linkedin.com/in/ssid1998/)
+- Email: hiressid@gmail.com
