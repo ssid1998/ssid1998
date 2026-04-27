@@ -70,7 +70,6 @@
 - Time Series Forecasting (CPI Germany)
 - Local Lingo | Language learning assistant using local AI models.
 - Local LLM Agents (OpenClaw + Ollama)
-- CNN for Time Series
 
 ---
 
