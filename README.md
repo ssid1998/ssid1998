@@ -32,9 +32,6 @@ I build practical data products that turn complex data into useful decisions—f
 - [LocalLingo](https://github.com/ssid1998/LocalLingo)  
   Local German voice tutor combining speech recognition, LLM-powered feedback, and text-to-speech.
 
-- [Kompass](https://github.com/ssid1998/Kompass)  
-  Local RAG chatbot for international students, built with Ollama and university knowledge sources.
-
 - [Strava Analytics with Local AI Assistant](https://github.com/ssid1998/Strava-Analytics-with-Local-AI-Assistant)  
   Fitness analytics with a local AI assistant for exploring activity data and generating insights.
 
