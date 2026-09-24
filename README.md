@@ -1,78 +1,61 @@
 # Hi, I'm Siddhanth 👋
 
-🎓 Master's in Engineering Business Intelligence & Data Analytics (Germany)  
-💡 Interested in Data Science, AI/ML, and Financial Analytics  
-🤖 Building Local LLMs, Time Series Models & Applied AI Systems  
+Master's student in Engineering Business Intelligence & Data Analytics in Germany, focused on **financial analytics, time-series forecasting, and applied AI systems**.
 
----
+I build practical data products that turn complex data into useful decisions—from forecasting inflation and financial risk to local LLM applications and edge-AI systems.
 
-##  Featured Projects
+## Focus areas
 
-###  AI / Local LLM Systems
+- Financial analytics and economic time-series forecasting
+- Machine learning, model evaluation, and monitoring
+- Local LLMs, RAG, and AI-assisted analytics
+- Applied data products and edge AI
+
+## Featured financial and AI projects
+
+### Financial analytics and forecasting
+
+- [CPI Forecasting Germany](https://github.com/ssid1998/CPI-Forecasting-Germany)  
+  Forecasts Germany's Consumer Price Index with ARIMA, ETS, and SARIMA. Includes a Streamlit dashboard, evaluation on a 24-month holdout, and monitoring; ETS achieved the strongest results.
+
+- [Credit Risk Time Series](https://github.com/ssid1998/credit-risk-time-series)  
+  Time-series modeling for financial risk prediction using statistical and machine-learning approaches.
+
+- [Banking Term Deposit Prediction](https://github.com/ssid1998/banking-term-deposit-prediction)  
+  Classification model for predicting customer subscription to term deposits.
+
+### Applied AI systems
 
 - [LocalLingo](https://github.com/ssid1998/LocalLingo)  
-  Language learning assistant using local AI models.
-  
+  Local German voice tutor combining speech recognition, LLM-powered feedback, and text-to-speech.
+
 - [Kompass](https://github.com/ssid1998/Kompass)  
-  Local LLM chatbot for international students using RAG, Ollama, and university knowledge sources.
+  Local RAG chatbot for international students, built with Ollama and university knowledge sources.
 
 - [Strava Analytics with Local AI Assistant](https://github.com/ssid1998/Strava-Analytics-with-Local-AI-Assistant)  
-  Personal fitness analytics system with LLM-powered insights on activity data.
+  Fitness analytics with a local AI assistant for exploring activity data and generating insights.
 
----
+### Edge AI and computer vision
 
-###  Edge AI / Computer Vision
-- [jetson-license-plate-entry-exit-system](https://github.com/ssid1998/jetson-license-plate-entry-exit-system)  
-  License plate recognition system using YOLOv8, TensorRT, and Jetson Nano.
+- [Jetson License Plate Entry–Exit System](https://github.com/ssid1998/jetson-license-plate-entry-exit-system)  
+  Vehicle entry–exit analytics using YOLOv8, TensorRT, and Jetson Nano.
 
-  ---
-  
-###  Financial Analytics
-- [credit-risk-time-series](https://github.com/ssid1998/credit-risk-time-series)  
-  Time series modeling for financial risk prediction using statistical and ML approaches.
+## Tools and experiments
 
-- [banking-term-deposit-prediction](https://github.com/ssid1998/banking-term-deposit-prediction)  
-  Classification model predicting customer subscription to term deposits.
+- [BetterPrompt](https://github.com/ssid1998/BetterPrompt) — tooling to review and improve AI prompts.
+- [Continuity-Clicker](https://github.com/ssid1998/Continuity-Clicker) — turn a phone into a presentation-clicker remote.
 
----
+## Tech stack
 
-###  Tools & Experiments
-- [BetterPrompt](https://github.com/ssid1998/BetterPrompt)  
-  Tooling to review and improve your AI Prompts
+Python · SQL · JavaScript · pandas · scikit-learn · statsmodels · Streamlit · Plotly · Ollama · RAG · YOLOv8 · TensorRT
 
-- [Continuity-Clicker](https://github.com/ssid1998/Continuity-Clicker)  
-  Turn your Phone into a presentation clicker remote.
+## Currently exploring
 
----
+- Financial time-series forecasting and model monitoring
+- Local AI agents with Ollama and OpenClaw
+- AI-assisted analytics and decision-support tools
 
-###  Fun / Side Projects
-- [Paddle-Panic](https://github.com/ssid1998/Paddle-Panic)  
-  2D Pong-style game built in JavaScript.
+## Connect
 
----
-
-###  Learning & Coursework
-- [cs50p](https://github.com/ssid1998/cs50p)  
-  Python coursework and problem sets from Harvard CS50P.
-
----
-
-##  Tech Stack
-- Python, SQL, JavaScript  
-- Machine Learning, Time Series Analysis  
-- YOLOv8, TensorRT, Edge AI  
-- Ollama, Local LLMs, RAG  
-- Pandas, Scikit-learn, Jupyter  
-
----
-
-##  Currently Working On
-- Time Series Forecasting (CPI Germany)
-- Local Lingo | Language learning assistant using local AI models.
-- Local LLM Agents (OpenClaw + Ollama)
-
----
-
-## 📫 Connect
-- LinkedIn: [(LinkedIn)](https://www.linkedin.com/in/ssid1998/)
-- Email: hiressid@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/ssid1998/)
+- hiressid@gmail.com
