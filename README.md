@@ -43,7 +43,6 @@ I build practical data products that turn complex data into useful decisions—f
 ## Tools and experiments
 
 - [BetterPrompt](https://github.com/ssid1998/BetterPrompt) — tooling to review and improve AI prompts.
-- [Continuity-Clicker](https://github.com/ssid1998/Continuity-Clicker) — turn a phone into a presentation-clicker remote.
 
 ## Tech stack
 
