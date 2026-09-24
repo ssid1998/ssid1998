@@ -1,7 +1,7 @@
 # Hi, I'm Siddhanth 👋
 
-🎓 Master's in Finance (Erasmus exchange semester) at Wrocław University of Economics and Business.
-🎓 Master's student in Engineering Business Intelligence & Data Analytics in Germany.
+- 🎓 Master's in Finance (Erasmus exchange semester) at Wrocław University of Economics and Business.
+- 🎓 Master's student in Engineering Business Intelligence & Data Analytics in Germany.
 
 Focused on **financial analytics, time-series forecasting, and applied AI systems**.
 
