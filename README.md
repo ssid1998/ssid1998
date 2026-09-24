@@ -1,6 +1,9 @@
 # Hi, I'm Siddhanth 👋
 
-Master's student in Engineering Business Intelligence & Data Analytics in Germany, focused on **financial analytics, time-series forecasting, and applied AI systems**.
+🎓 Master's in Finance, including an Erasmus exchange semester at Uniwersytet Ekonomiczny we Wrocławiu (Wrocław University of Economics and Business), Poland.  
+🎓 Master's student in Engineering Business Intelligence & Data Analytics in Germany.
+
+Focused on **financial analytics, time-series forecasting, and applied AI systems**.
 
 I build practical data products that turn complex data into useful decisions—from forecasting inflation and financial risk to local LLM applications and edge-AI systems.
 
